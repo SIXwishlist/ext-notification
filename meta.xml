@@ -4,8 +4,9 @@
   <id>notification-example</id>
   <name>Notification example</name>
   <description>This is example extension to demonstrate how to send a specific extension's notifications via Plesk</description>
+  <category>example</category>
   <version>1.0</version>
-  <release>1</release>
+  <release>2</release>
   <vendor>Plesk</vendor>
   <plesk_min_version>17.0.14</plesk_min_version>
 </module>
